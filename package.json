@@ -22,7 +22,7 @@
   "publisher": "zwj",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thusthis/git-sparse-check.git"
+    "url": "https://github.com/kalinuxJS/git-sparse-check.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
