@@ -19,7 +19,7 @@
       }
     ]
   },
-  "publisher": "zwj",
+  "publisher": "f00ee1a4-fffd-6fee-adb3-adaa4894bcdf",
   "repository": {
     "type": "git",
     "url": "https://github.com/kalinuxJS/git-sparse-check.git"
